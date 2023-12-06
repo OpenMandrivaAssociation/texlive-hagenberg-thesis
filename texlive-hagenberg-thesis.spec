@@ -1,6 +1,6 @@
 Name:		texlive-hagenberg-thesis
-Version:	56798
-Release:	2
+Version:	65819
+Release:	1
 Summary:	A Collection of LaTeX classes, style files, and example documents for academic manuscripts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hagenberg-thesis

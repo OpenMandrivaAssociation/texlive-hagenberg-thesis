@@ -3,7 +3,7 @@ Version:	65819
 Release:	1
 Summary:	A Collection of LaTeX classes, style files, and example documents for academic manuscripts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hagenberg-thesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hagenberg-thesis
 License:	cc-by-4
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hagenberg-thesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hagenberg-thesis.doc.r%{version}.tar.xz
